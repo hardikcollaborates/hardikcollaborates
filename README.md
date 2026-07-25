@@ -68,6 +68,5 @@ All official company case studies, public frameworks, and architecture documenta
 ### 📬 Direct Contact & Background
 
 - **Organization**: [North Stone Systems](https://github.com/North-Stone-Labs)
-- **Website**: [northstonesystems.com](https://northstonesystems.com)
 - **Email**: [hardik.collaborates@gmail.com](mailto:hardik.collaborates@gmail.com)
 - **Education**: B.Tech. in Mechanical Engineering, GNDEC Ludhiana (Expected 2029)
