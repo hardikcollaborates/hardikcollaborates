@@ -1,72 +1,47 @@
 # Hardik Kumar
-### **Founder & Systems Engineer** — [North Stone Systems](https://github.com/North-Stone-Labs)  
-`Mechanical Engineering Student` • `GNDEC Ludhiana (Exp. 2029)`
+> **Founder & Systems Architect at North Stone Systems (NSS)**  
+> *Building intelligent systems for problems worth solving. More interested in understanding why things work than simply making them work.*
 
 ---
 
-> *"Businesses don't fail because they lack software. They fail because the systems connecting people, processes, information, and decisions were never engineered properly."*
+## 🏛️ About Me & North Stone Systems
+
+I am a software solutions architect and consultant. I specialize in turning complex, manual business operations into reliable, maintainable software systems.
+
+At **North Stone Systems**, we bridge the gap between business operations and software engineering. We don't sell AI as a buzzword—we solve business problems using the right combination of custom software, workflow automation, and targeted AI.
 
 ---
 
-### 🏛️ About North Stone Systems
+## 🛠️ Core Services & Capabilities
 
-At **North Stone Systems**, we engineer **Business Operating Systems** that enable organizations to operate with clarity, efficiency, and structural integrity. We never begin with tools or software—we begin by systematically studying how the business actually operates.
-
----
-
-### ⚙️ The 7-Stage Business Engineering Process
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>01</code> Operational Analysis</h4>
-      <p>Studying workflows, decision points, and information flow across the organization.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><code>02</code> Deep-Dive Diagnostic</h4>
-      <p>Identifying root causes, manual bottlenecks, data silos, and structural weaknesses.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>03</code> Collaborative Strategy</h4>
-      <p>Engaging leadership to discuss operational findings and define system goals.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><code>04</code> System Architecture</h4>
-      <p>Designing data flows, module components, and complete operational blueprints.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>05</code> Documentation & Specs</h4>
-      <p>Authoring formal engineering standards, playbooks, and system specifications.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><code>06</code> Implementation & Deployment</h4>
-      <p>Building and deploying the centralized Business Operating System platform.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4><code>07</code> Measurement, Audit & Continuous Optimization</h4>
-      <p>Verifying measurable operational outcomes and ensuring long-term system durability.</p>
-    </td>
-  </tr>
-</table>
+* 💻 **Custom Business Software:** Internal management platforms, dashboards, role-based portals.
+* 🤖 **AI Solutions:** Intelligent search, document understanding, RAG pipelines, workflow assistants.
+* ⚡ **Workflow Automation:** Business process optimization, WhatsApp API integrations, database webhooks.
+* 📐 **Technology Consulting:** System modernization, solution architecture, technical planning.
 
 ---
 
-### 🌐 Engineering Organization
+## 📂 Public Repositories & Case Studies
 
-All official company case studies, public frameworks, and architecture documentation are published under our engineering organization:
-
-👉 **[github.com/North-Stone-Labs](https://github.com/North-Stone-Labs)**
+* 🏭 [**Ashiga-India-Project**](https://github.com/hardikcollaborates/Ashiga-India-Project): Case Study & Architecture for an AI-Powered Industrial Scrap Operations Platform.
+* 🚢 [**CHA-Logistics-Platform**](https://github.com/hardikcollaborates/CHA-Logistics-Platform): Customs House Agency & Freight Logistics Management System.
+* 💬 [**WhatsApp-Workflow-Automation**](https://github.com/hardikcollaborates/WhatsApp-Workflow-Automation): Multi-Channel Workflow Automation Engine.
+* 🧠 [**AI-Document-Intelligence-RAG**](https://github.com/hardikcollaborates/AI-Document-Intelligence-RAG): Enterprise Document Parsing & RAG Knowledge Pipeline.
+* 🏛️ [**north-stone-systems**](https://github.com/hardikcollaborates/north-stone-systems): North Stone Systems Master Foundation & Engineering Standards.
 
 ---
 
-### 📬 Direct Contact & Background
+## 💻 Primary Technical Stack
 
-- **Organization**: [North Stone Systems](https://github.com/North-Stone-Labs)
-- **Email**: [hardik.collaborates@gmail.com](mailto:hardik.collaborates@gmail.com)
-- **Education**: B.Tech. in Mechanical Engineering, GNDEC Ludhiana (Expected 2029)
+* **Languages:** Python, TypeScript, JavaScript, SQL
+* **Frontend:** Next.js 15, React, Tailwind CSS, shadcn/ui
+* **Backend & DB:** FastAPI, Node.js, Supabase PostgreSQL, MySQL, SQLite
+* **Auth & Cloud:** Clerk, Vercel, Railway, Docker
+* **AI & Automation:** OpenAI API, Google Gemini API, RAG, n8n, WhatsApp API
+
+---
+
+## 📬 Contact & Engagements
+
+* **Company:** North Stone Systems (NSS)
+* **GitHub:** [@hardikcollaborates](https://github.com/hardikcollaborates)
